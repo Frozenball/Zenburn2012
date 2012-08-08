@@ -1,4 +1,7 @@
 #Zenburn2012
+
+This is a fork of Zenburn2012 that removes disturbing colors (magenta, black active line).
+
 Zenburn2012 is a dark-background, low-contrast theme for the NetBeans 7.2 IDE
 
 ##About
